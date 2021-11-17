@@ -1,8 +1,11 @@
 # Visualitzacions
+
 Pràctiques de M2.959
+
 17/11/2021
+
 Obrim aquest repositori per a fer públiques tres visualitzacions fins ara, per a mi, poc freqüents: pyramid chart, dot matrix chart i spiral plot.
-He triat com temes els salvats del Titanic i les taques solars entre 1945 i 1985, i com a fonts de les dades la Wikipedia i la pàgina web de la NOAA.
+He triat com temes els supervivents del Titanic, i les taques solars entre 1945 i 1985, i com a fonts de les dades la Wikipedia i la pàgina web de la NOAA.
 Les dades de Wikipedia són a les URLs:
 https://en.wikipedia.org/wiki/Passengers_of_the_Titanic
 https://en.wikipedia.org/wiki/Crew_of_the_Titanic
@@ -17,10 +20,13 @@ Les tres gràfiques les he programat en Python en Anaconda Jupyter i els html de
 
 
 # Visualizaciones
+
 Prácticas de M2.959
+
 17/11/2021
-Abrimos este repositorio para hacer públicas tres visualizaciones hasta ahora, para mí, poco frecuentes: pyramid chart, dote matrix chart y spiral plot.
-He elegido como temas los pasajeros y tripulantes del Titanic salvados, y las manchas solares entre 1945 y 1985, y como fuentes de los datos la Wikipedia y la página web de la NOAA.
+
+Abrimos este repositorio para hacer públicas tres visualizaciones hasta ahora, para mí, poco frecuentes: pyramid chart, dot matrix chart y spiral plot.
+He elegido como temas los pasajeros y tripulantes supervivientes del Titanic, y las manchas solares entre 1945 y 1985, y como fuentes de los datos la Wikipedia y la página web de la NOAA.
 Los datos de Wikipedia están en las URLs:
 https://en.wikipedia.org/wiki/passengers_of_the_titanic
 https://en.wikipedia.org/wiki/crew_of_the_titanic
@@ -34,8 +40,11 @@ Hemos calculado el desplazamiento angular para que una vuelta completa sea equiv
 Las tres gráficas las he programado en Python en Anaconda Jupyter y los html de los 3 programas están incluidos. Además, aparecen junto con un pdf explicativo, las tres visualizaciones en formato png.
 
 # Visualizations
+
 Practices of M2.959
+
 17/11/2021
+
 We open this repository to make public three visualizations so far, for me, rare: pyramid chart, dowry matrix chart and spiral plot.
 I have chosen as topics the Titanic survived passengers and crew, and the sunspots between 1945 and 1985, and as data sources Wikipedia and the NOAA website.
 The Wikipedia data are in the URLs:
